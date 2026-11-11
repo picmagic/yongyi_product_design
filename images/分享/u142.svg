@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="50px" height="50px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="Clip154">
+      <path d="M 573 672  C 559.125 672  548 660.875  548 647  L 548 647  C 548 633.125  559.125 622  573 622  L 573 622  C 586.875 622  598 633.125  598 647  L 598 647  C 598 660.875  586.875 672  573 672  " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -548 -622 )">
+    <path d="M 548 622  L 598 622  L 598 672  L 548 672  L 548 622  " fill-rule="nonzero" fill="rgba(204, 204, 204, 1)" stroke="none" class="fill" mask="url(#Clip154)" />
+    <path d="M 552 626  L 594 626  L 594 668  L 552 668  L 552 626  " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" class="fill" mask="url(#Clip154)" />
+    <path d="M 577.75 637  C 575.65 637  574 635.35  574 633.25  C 574 631.15  575.65 629.5  577.75 629.5  C 579.85 629.5  581.5 631.15  581.5 633.25  C 581.5 635.35  579.85 637  577.75 637  " fill-rule="nonzero" fill="rgba(204, 204, 204, 1)" stroke="none" class="fill" mask="url(#Clip154)" />
+    <path d="M 554 667  L 554 645.55  L 563.75 635.8  L 577.4 643.6  L 585.2 641.65  L 593 643.6  L 593 667  L 554 667  " fill-rule="nonzero" fill="rgba(22, 155, 213, 1)" stroke="none" class="fill" mask="url(#Clip154)" />
+  </g>
+</svg>
