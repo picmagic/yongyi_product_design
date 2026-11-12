@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="51px" height="51px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="Clip202">
+    <mask fill="white" id="Clip334">
       <path d="M 34.5 105  C 20.3475 105  9 93.6525  9 79.5  L 9 79.5  C 9 65.3475  20.3475 54  34.5 54  L 34.5 54  C 48.6525 54  60 65.3475  60 79.5  L 60 79.5  C 60 93.6525  48.6525 105  34.5 105  " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -9 -54 )">
-    <path d="M 9 54  L 60 54  L 60 105  L 9 105  L 9 54  " fill-rule="nonzero" fill="rgba(204, 204, 204, 1)" stroke="none" class="fill" mask="url(#Clip202)" />
-    <path d="M 13 58  L 56 58  L 56 101  L 13 101  L 13 58  " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" class="fill" mask="url(#Clip202)" />
-    <path d="M 39.345 69.3  C 37.202999999999996 69.3  35.519999999999996 67.61699999999999  35.519999999999996 65.475  C 35.519999999999996 63.333  37.202999999999996 61.65  39.345 61.65  C 41.486999999999995 61.65  43.169999999999995 63.333  43.169999999999995 65.475  C 43.169999999999995 67.61699999999999  41.486999999999995 69.3  39.345 69.3  " fill-rule="nonzero" fill="rgba(204, 204, 204, 1)" stroke="none" class="fill" mask="url(#Clip202)" />
-    <path d="M 15 100  L 15 78  L 25 68  L 39 76  L 47 74  L 55 76  L 55 100  L 15 100  " fill-rule="nonzero" fill="rgba(22, 155, 213, 1)" stroke="none" class="fill" mask="url(#Clip202)" />
+    <path d="M 9 54  L 60 54  L 60 105  L 9 105  L 9 54  " fill-rule="nonzero" fill="rgba(204, 204, 204, 1)" stroke="none" class="fill" mask="url(#Clip334)" />
+    <path d="M 13 58  L 56 58  L 56 101  L 13 101  L 13 58  " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" class="fill" mask="url(#Clip334)" />
+    <path d="M 39.345 69.3  C 37.202999999999996 69.3  35.519999999999996 67.61699999999999  35.519999999999996 65.475  C 35.519999999999996 63.333  37.202999999999996 61.65  39.345 61.65  C 41.486999999999995 61.65  43.169999999999995 63.333  43.169999999999995 65.475  C 43.169999999999995 67.61699999999999  41.486999999999995 69.3  39.345 69.3  " fill-rule="nonzero" fill="rgba(204, 204, 204, 1)" stroke="none" class="fill" mask="url(#Clip334)" />
+    <path d="M 15 100  L 15 78  L 25 68  L 39 76  L 47 74  L 55 76  L 55 100  L 15 100  " fill-rule="nonzero" fill="rgba(22, 155, 213, 1)" stroke="none" class="fill" mask="url(#Clip334)" />
   </g>
 </svg>

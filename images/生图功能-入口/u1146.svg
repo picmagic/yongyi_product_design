@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="209px" height="331px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="Clip390">
+      <path d="M 1876 1100  C 1873.225 1100  1871 1097.775  1871 1095  L 1871 774  C 1871 771.225  1873.225 769  1876 769  L 2075 769  C 2077.775 769  2080 771.225  2080 774  L 2080 1095  C 2080 1097.775  2077.775 1100  2075 1100  " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -1871 -769 )">
+    <path d="M 1871 769  L 2080 769  L 2080 1100  L 1871 1100  L 1871 769  " fill-rule="nonzero" fill="rgba(204, 204, 204, 1)" stroke="none" class="fill" mask="url(#Clip390)" />
+    <path d="M 1886 784  L 2065 784  L 2065 1085  L 1886 1085  L 1886 784  " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" class="fill" mask="url(#Clip390)" />
+    <path d="M 1995.355 850  C 1986.577 850  1979.68 843.1030000000001  1979.68 834.325  C 1979.68 825.547  1986.577 818.65  1995.355 818.65  C 2004.133 818.65  2011.03 825.547  2011.03 834.325  C 2011.03 843.1030000000001  2004.133 850  1995.355 850  " fill-rule="nonzero" fill="rgba(204, 204, 204, 1)" stroke="none" class="fill" mask="url(#Clip390)" />
+    <path d="M 1891 1080  L 1891 919.95  L 1933.25 847.2  L 1992.4 905.4  L 2026.2 890.85  L 2060 905.4  L 2060 1080  L 1891 1080  " fill-rule="nonzero" fill="rgba(22, 155, 213, 1)" stroke="none" class="fill" mask="url(#Clip390)" />
+  </g>
+</svg>

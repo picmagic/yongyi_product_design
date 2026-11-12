@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="43px" height="43px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <path d="M 0 0  L 1879 0  L 1879 1024  L 0 1024  Z " fill-rule="evenodd" fill="black" id="path199" />
-    <clipPath id="clip200">
-      <use xlink:href="#path199" />
+    <path d="M 0 0  L 1879 0  L 1879 1024  L 0 1024  Z " fill-rule="evenodd" fill="black" id="path331" />
+    <clipPath id="clip332">
+      <use xlink:href="#path331" />
     </clipPath>
-    <filter x="-50.00%" y="-50.00%" width="200.00%" height="200.00%" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB" id="Filter201">
+    <filter x="-50.00%" y="-50.00%" width="200.00%" height="200.00%" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB" id="Filter333">
       <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0  " in="SourceGraphic" />
     </filter>
   </defs>
   <g transform="matrix(1 0 0 1 -961 -1495 )">
-    <g transform="matrix(0.022884513038850453 0 0 0.022884513038850453 961 1504.7831293241086 )" clip-path="url(#clip200)" filter="url(#Filter201)">
+    <g transform="matrix(0.022884513038850453 0 0 0.022884513038850453 961 1504.7831293241086 )" clip-path="url(#clip332)" filter="url(#Filter333)">
       <path d="M1528.305202 490.543353l-415.815029-417.146821c-9.47052-9.47052-21.900578-14.649711-35.366474-14.649711-13.465896 0-26.043931 5.327168-35.662427 14.797688-18.053179 18.201156-19.828902 46.46474-4.143353 66.441618l338.275145 339.310983h-988.48555c-27.523699 0-50.016185 22.492486-50.016185 50.312139 0 27.671676 22.492486 50.312139 50.016185 50.312138h988.48555L1029.031214 927.371098c-10.358382 20.716763-7.250867 44.689017 8.434682 60.22659 9.322543 9.322543 21.900578 14.353757 35.514451 14.353757 14.945665 0 29.151445-6.067052 40.101734-16.869364l27.671676-27.671676 76.208093-76.35607 14.353757-14.057803 296.989595-298.025434c9.766474-9.914451 14.797688-23.380347 14.057804-38.178034v-2.071677c0.739884-14.797688-4.291329-28.411561-14.057804-38.178034m0 0z" fill="#e6e6e6" p-id="13227"></path>
     </g>
     <path d="M 962 1537  L 962 1496  L 1003 1496  L 1003 1537  L 962 1537  Z " stroke-width="2" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" class="stroke" />
