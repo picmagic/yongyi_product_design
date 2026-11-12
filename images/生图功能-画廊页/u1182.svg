@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="143px" height="216px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="Clip399">
+      <path d="M 550 493  C 545.005 493  541 488.995  541 484  L 541 286  C 541 281.005  545.005 277  550 277  L 675 277  C 679.995 277  684 281.005  684 286  L 684 484  C 684 488.995  679.995 493  675 493  " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -541 -277 )">
+    <path d="M 541 277  L 684 277  L 684 493  L 541 493  L 541 277  " fill-rule="nonzero" fill="rgba(204, 204, 204, 1)" stroke="none" class="fill" mask="url(#Clip399)" />
+    <path d="M 551 287  L 674 287  L 674 483  L 551 483  L 551 287  " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" class="fill" mask="url(#Clip399)" />
+    <path d="M 626.085 330.84999999999997  C 620.0790000000001 330.84999999999997  615.36 326.131  615.36 320.125  C 615.36 314.11899999999997  620.0790000000001 309.4  626.085 309.4  C 632.091 309.4  636.8100000000001 314.11899999999997  636.8100000000001 320.125  C 636.8100000000001 326.131  632.091 330.84999999999997  626.085 330.84999999999997  " fill-rule="nonzero" fill="rgba(204, 204, 204, 1)" stroke="none" class="fill" mask="url(#Clip399)" />
+    <path d="M 555 480  L 555 376.05  L 584 328.79999999999995  L 624.6 366.6  L 647.8 357.15  L 671 366.6  L 671 480  L 555 480  " fill-rule="nonzero" fill="rgba(22, 155, 213, 1)" stroke="none" class="fill" mask="url(#Clip399)" />
+  </g>
+</svg>

@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="300px" height="451px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="Clip153">
+    <mask fill="white" id="Clip285">
       <path d="M 530 613  L 530 167  C 530 164.225  532.225 162  535 162  L 825 162  C 827.775 162  830 164.225  830 167  L 830 613  " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -530 -162 )">
-    <path d="M 530 162  L 830 162  L 830 613  L 530 613  L 530 162  " fill-rule="nonzero" fill="rgba(204, 204, 204, 1)" stroke="none" class="fill" mask="url(#Clip153)" />
-    <path d="M 551 183  L 809 183  L 809 592  L 551 592  L 551 183  " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" class="fill" mask="url(#Clip153)" />
-    <path d="M 708.5 274.65  C 695.9 274.65  686 264.75  686 252.14999999999998  C 686 239.54999999999998  695.9 229.64999999999998  708.5 229.64999999999998  C 721.1 229.64999999999998  731 239.54999999999998  731 252.14999999999998  C 731 264.75  721.1 274.65  708.5 274.65  " fill-rule="nonzero" fill="rgba(204, 204, 204, 1)" stroke="none" class="fill" mask="url(#Clip153)" />
-    <path d="M 559 585  L 559 368.29999999999995  L 619.75 269.79999999999995  L 704.8 348.6  L 753.4 328.9  L 802 348.6  L 802 585  L 559 585  " fill-rule="nonzero" fill="rgba(22, 155, 213, 1)" stroke="none" class="fill" mask="url(#Clip153)" />
+    <path d="M 530 162  L 830 162  L 830 613  L 530 613  L 530 162  " fill-rule="nonzero" fill="rgba(204, 204, 204, 1)" stroke="none" class="fill" mask="url(#Clip285)" />
+    <path d="M 551 183  L 809 183  L 809 592  L 551 592  L 551 183  " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" class="fill" mask="url(#Clip285)" />
+    <path d="M 708.5 274.65  C 695.9 274.65  686 264.75  686 252.14999999999998  C 686 239.54999999999998  695.9 229.64999999999998  708.5 229.64999999999998  C 721.1 229.64999999999998  731 239.54999999999998  731 252.14999999999998  C 731 264.75  721.1 274.65  708.5 274.65  " fill-rule="nonzero" fill="rgba(204, 204, 204, 1)" stroke="none" class="fill" mask="url(#Clip285)" />
+    <path d="M 559 585  L 559 368.29999999999995  L 619.75 269.79999999999995  L 704.8 348.6  L 753.4 328.9  L 802 348.6  L 802 585  L 559 585  " fill-rule="nonzero" fill="rgba(22, 155, 213, 1)" stroke="none" class="fill" mask="url(#Clip285)" />
   </g>
 </svg>
